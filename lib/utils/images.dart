@@ -1,0 +1,1 @@
+String get userImage => 'assets/images/user.png';
