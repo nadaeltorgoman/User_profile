@@ -1,1 +1,1 @@
-String get userImage => 'assets/images/user.png';
+String get userImage => 'assets/images/female_person.png';
